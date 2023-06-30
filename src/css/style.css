@@ -1,0 +1,14 @@
+.columnas{
+    column-count: 2;
+    column-gap: 50px;
+}
+
+.mi-boton{
+    width: 175px;
+    height: 50px;
+}
+
+.cabecera{
+    background-color: forestgreen;
+    color: white;
+}
